@@ -5,7 +5,7 @@ Lab of AI in Radiology (CLAIR), Department of Imaging and Interventional Radiolo
 
 ---
 
-[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](ttps://arxiv.org/abs/2310.11050)
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2310.11050)
 [![GitHub Stars](https://img.shields.io/github/stars/lpzhang/ktCLAIR?style=social)](https://github.com/lpzhang/ktCLAIR)
 [![download](https://img.shields.io/github/downloads/lpzhang/ktCLAIR/total.svg)](https://github.com/lpzhang/ktCLAIR/releases)
 
